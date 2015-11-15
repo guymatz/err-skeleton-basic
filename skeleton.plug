@@ -6,4 +6,4 @@ Module = skeleton
 Description = An Err plugin that ...
 
 [Python]
-Version = 3
+Version = 2+
